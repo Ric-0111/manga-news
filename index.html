@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>朝のネーム会議</title>
+<link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Zen+Kaku+Gothic+New:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#fbfaf6;--ink:#1c1c1c;--tone:#d9d6cc;--red:#d6342c;--sub:#5b5b55}
+@media(prefers-color-scheme:dark){:root{--paper:#1b1b1a;--ink:#f1efe8;--tone:#34332f;--red:#ff6a5e;--sub:#aaa89f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Zen Kaku Gothic New","Hiragino Sans",sans-serif;line-height:1.6}
+header{padding:28px 20px 20px;border-bottom:4px solid var(--ink);background:radial-gradient(var(--tone) 1.2px,transparent 1.3px) 0 0/7px 7px}
+h1{font-family:"Dela Gothic One",sans-serif;font-weight:400;font-size:clamp(28px,6vw,52px);margin:0;letter-spacing:.02em}
+.meta{color:var(--sub);font-size:14px;margin:6px 0 0}
+main{max-width:1100px;margin:0 auto;padding:20px;display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr))}
+section{border:3px solid var(--ink);background:var(--paper);padding:14px 16px 6px;box-shadow:6px 6px 0 var(--ink)}
+section.wide{grid-column:1/-1}
+h2{font-family:"Dela Gothic One",sans-serif;font-weight:400;font-size:20px;margin:0 0 10px}
+h2.fire{color:var(--red)}
+ul{list-style:none;margin:0;padding:0}
+li{padding:8px 0;border-top:1px solid var(--tone)}
+li:first-child{border-top:0}
+a{color:inherit;text-decoration:none}
+li a:hover{text-decoration:underline;text-decoration-color:var(--red)}
+a:focus-visible,button:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+.src{display:block;font-size:12px;color:var(--sub)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;padding-bottom:12px}
+.chip{border:2px solid var(--ink);padding:3px 11px;font-size:15px}
+.chip b{font-size:12px;color:var(--sub);margin-left:5px;font-weight:400}
+.chip.new{background:var(--red);color:#fff;border-color:var(--red)}
+.chip.new b{color:#fff}
+.links a{display:inline-block;border:2px solid var(--ink);padding:6px 12px;margin:0 8px 10px 0;font-weight:700}
+.links a:hover{background:var(--ink);color:var(--paper)}
+.note{font-size:12px;color:var(--sub);margin:0 0 12px}
+.err{max-width:1100px;margin:0 auto;padding:0 20px 30px;font-size:12px;color:var(--sub)}
+</style>
+</head>
+<body>
+<header>
+  <h1>朝のネーム会議</h1>
+  <p class="meta" id="meta">読み込み中…</p>
+</header>
+<main id="app"></main>
+<div class="err" id="err"></div>
+<script>
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+fetch("data.json?"+Date.now()).then(r=>r.json()).then(d=>{
+  document.getElementById("meta").textContent="最終更新 "+d.updated+"（毎朝5:30ごろ自動更新）";
+  let h="";
+  h+=`<section class="wide"><h2>Xの昨日の話題（タップで開く）</h2><p class="note">XはAPIなしだと自動で集められないので、検索済みのリンクを用意しました。</p><div class="links">${d.links.map(l=>`<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`).join("")}</div></section>`;
+  h+=`<section><h2>急上昇ワード</h2><div class="chips">${d.trends.map(t=>`<a class="chip" target="_blank" rel="noopener" href="https://search.yahoo.co.jp/realtime/search?ei=UTF-8&p=${encodeURIComponent(t.word)}">${esc(t.word)}<b>${esc(t.traffic)}</b></a>`).join("")||"取得できませんでした"}</div></section>`;
+  h+=`<section><h2>最近よく出る言葉</h2><p class="note">赤＝この1週間で初登場</p><div class="chips">${d.words.map(w=>`<span class="chip${w.new?" new":""}">${esc(w.word)}<b>${w.count}</b></span>`).join("")}</div></section>`;
+  for(const s of d.sections){
+    h+=`<section><h2 class="${s.id}">${esc(s.title)}</h2><ul>${s.items.map(i=>`<li><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>${i.source?`<span class="src">${esc(i.source)}</span>`:""}</li>`).join("")||"<li>該当なし</li>"}</ul></section>`;
+  }
+  document.getElementById("app").innerHTML=h;
+  if(d.errors&&d.errors.length)document.getElementById("err").textContent="取得できなかった情報源: "+d.errors.length+"件";
+}).catch(()=>{document.getElementById("meta").textContent="data.json がまだありません。GitHubのActionsを一度実行してください。"});
+</script>
+</body>
+</html>
