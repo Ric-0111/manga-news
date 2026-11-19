@@ -1,168 +1,545 @@
 {
- "updated": "2026-11-18 11:33",
+ "updated": "2026-11-19 10:58",
  "sections": [
   {
    "id": "manga",
    "title": "漫画ニュース",
-   "items": []
+   "items": [
+    {
+     "title": "【漫画】「別のやつに交換しろよ」とほぼ完食した丼を指さす客。だが、責任者が冷静に正論を伝えた結果",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51bTZEcHZJNkQ3YkpKWERWTmVkRF95Mzh1S1V0dGtWdTJGVEI5S0FGaFZ2dl9nWWZsaElDQVhUdjBCZHc3X0FUSjlMVUtITlVsdm1DLUl2V2pKZlN5TmN0LTIyZlNXTm1JMkM3VFVR?oc=5",
+     "source": "au Webポータル",
+     "ts": 1795051817.0
+    },
+    {
+     "title": "めちゃコミック＆コルク共同で新漫画レーベル『コルコミ』始動",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qd3lGdEVhTlQzMjFMZ00zb294eTV6NUtIZmZrZW9FV0o3REszOUQ1cDJXU2NSMlFISlA1VjJ0R0RMMGVzbm8wTUhiWU5kbjg?oc=5",
+     "source": "オリコンニュース",
+     "ts": 1795051740.0
+    },
+    {
+     "title": "倉田真由美さん 外国人“ヤード”で逮捕も相次ぐ不起訴に「なぜ不起訴なのか…こういうことが続くと」",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGNqQ0xwOVJoTlUwYndUT1NsLWU1NEh0OXBUR1RfelVINzVub1NCZEl4ZVViODZ4Wk5fajJib0l2VGhXWkVYUzAyRS1UUlVNWVdEZlktNEJmNVhYZVJnclowVU11MlhDVkpUdnQ5bXYtemluVHdMd28tWGtvckVvNmlEalNiZmlrSWhJT1VOelREU2RTUXc?oc=5",
+     "source": "スポニチ Sponichi Annex",
+     "ts": 1795051020.0
+    },
+    {
+     "title": "めちゃコミックとコルクが共同で新マンガレーベル 「コルコミ」を立ち上げ 第1弾の新連載作品を発表",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GWXFyQzBWSUJBVzRJZ1R5ZUdTS1dlZElTU3VGZXhqNEkwYlQyYnJhNHd6a0wtY0ZRaUM4aVQ2TmkyRkZ3cU5seGNubC13VE1ITWhab0VseWRVSFozRUJZ?oc=5",
+     "source": "株式会社めちゃコミック",
+     "ts": 1795050116.0
+    },
+    {
+     "title": "マンガ『名探偵マーニー』“単行本12巻”が2027年1月20日に発売決定",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pYUNoYmpFTWVlNVllU0hBYkxJcm5IOEI5LUlKVFFpYTkzZUxCUHpkX2VRV1NEQXgxN1NsWk5IeFhyYkdhUlhDNFNrZVlfRVRiWF9GeW5jVVU?oc=5",
+     "source": "電ファミニコゲーマー",
+     "ts": 1795050060.0
+    },
+    {
+     "title": "萩尾望都×山岸凉子×大和和紀 ｢少女漫画｣の多彩さ伝える三人展",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2VTI2dXRsRG5pa084Vm93ZjZyTWM5Zmc0TllZRlJlUlJ2Y3VTOG5PdU9jMDZBMy1INDVoRFdqR0NVWndNRENYX042OXNjRzBNeEdQY2RJMzFNNnUwazFJSTlmVlZjUUE?oc=5",
+     "source": "朝日新聞",
+     "ts": 1795050000.0
+    },
+    {
+     "title": "【漫画】「みんなの大切な日常を壊さないで」ママ友に伝えた最後の約束【かまってちゃんママ友にサークルをぶち壊された件 Vol.42】",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90YXY2dGdZNlU2YjluOXg4UElFOTdseFl1WGRhOUcxRV9BRHluUk56eDZFYndxOFNzUG5NenQ3RFhpdmhHTFV4NnFnOEJxNmpRYmVnM0FaRGJDSC1YdWgyeDhyZTdGMjBlOUVNNQ?oc=5",
+     "source": "日刊スポーツ",
+     "ts": 1795050000.0
+    },
+    {
+     "title": "平日は「調子がイマイチ」なのに休日は超元気！毎日休みならいいのに",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QYl9vRWhobk5uVW80c0RudjFiNjlBTDFjdGVVcTZOeFJ5QTRvcmIxZ0JKbGJDdERYUVVKS0sySUxFN2RqTWxYa3B2RWN0dWs?oc=5",
+     "source": "TRILL",
+     "ts": 1795049400.0
+    },
+    {
+     "title": "味の素㈱が食事中専用の漫画サービス「噛む読書」を提供開始 噛むことからはじまる新しい健康習慣を提案",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMR3hEbGVwaUhtdkFmSklSdGg1emJUS09RUEtVNUNVbFhGRWdkOERaWWJUVHhwdVRiNFBwYXVHaEQ5Q2FCRlJPdVpMY1FFTy1hVmN0YVBtLW1rZlVDc0UxbWg5Q1dDZlNSWmc?oc=5",
+     "source": "PR TIMES",
+     "ts": 1795047601.0
+    },
+    {
+     "title": "【漫画】「返事するぐらい簡単だろ？」母に冷たい態度をとる妻に夫はガッカリ…【義母の連絡がしつこい！ Vol.5】",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DUk1xaXNXYmFWTTV3UEdFdHhCcEZwWGJLaWV1OExIV1psNFVMbUhMNmpQeC13N2dpVi02U19OejRaSThVTEhNbkljVndWN0VhcEFyQnRYV0dyX3pZS0lN?oc=5",
+     "source": "千葉テレビ放送株式会社",
+     "ts": 1795047097.0
+    },
+    {
+     "title": "「ちょっとした鯉」数年ぶりに再会した金魚がエグいことに…!!1匹だけ生き残る金魚は「ヤバイ奴」!?（ウォーカープラス）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aUjNNTXZQZzdFZVlfdVBDeWl0M1NFTFVSN0R1eHM0b1JCb1pOZnFPMTBGYmIwMXJOQW5NeDJ0cnU4aUt4X1lNenViVm5QUDlPZzV0RDFNMUdYZmR2MzhlNW03Nm1ORncyQkpaTnNnd0xUcmI4UWtRZnJZQkV0ZXc?oc=5",
+     "source": "Yahoo!ニュース",
+     "ts": 1795046058.0
+    },
+    {
+     "title": "「散歩ぅ～」ニッコリ笑顔がたまらん！柴犬ぽんちゃんの、“柴あるある”な毎日【漫画】",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yamhmZlNOYmlNS1ZNZG1rNDhVejhPOWp4WFBsZ3VualBxM21xUmpSQ2tQQ1JwMXlDSWc2UFIzaHdiZw?oc=5",
+     "source": "女子SPA!",
+     "ts": 1795045626.0
+    },
+    {
+     "title": "関東の男は無理…関西女子の一方的な言い分に東西バトル勃発!?「マジかよ」と驚きの声【漫画】",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aSm9obkJoN25NOXgyUFlReUZHQTZpMWpzTnBxODR6U2UyblN0UWkwcEhkeDBveENCUjM3aDdKeG9mcVE0Q0QwZERVRmJJNTNVTGZ6bVZueHFmNHJWcGxPc2N1UmJRcndH?oc=5",
+     "source": "ニコニコニュース",
+     "ts": 1795044792.0
+    },
+    {
+     "title": "【漫画】余命300日の毒親(8) 介護ヘルパーをキャンセルしてしまった父。いったい何が…⁉︎",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95Q19Zc09ka2NSZHI4VjVtY2tzeGF3RGxBMm5Va1FJQTY4ZnFRaVFvbWRIOWxEWkJtdWFESjZOSXhDWTdldVZuNUhiSjQ5dlR0eEE0Y25HbzhkV0Rm?oc=5",
+     "source": "マイナビニュース",
+     "ts": 1795044600.0
+    },
+    {
+     "title": "画像90 / 325＞【漫画】『14歳で整形した私』『人生もっとうまくやれたのに 港区女子の絶望と幸せ』『整形失敗しました〜失った顔と心を取り戻すまで』／著：うみの韻花",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14UlNIWnpCSGFWLWlSYTVqM2tvSVdCXzN0UV9vOXgzYkxNTDlCdnBScDFaTUZzckJfR2ludXdTMW9MX1JuV2RVTGlCS3h1bkVCUUNEdDAtOWkzZGh4LWhkdUhOMkNFYUNnWWpEcTNn?oc=5",
+     "source": "ウォーカープラス",
+     "ts": 1795043753.0
+    }
+   ]
   },
   {
    "id": "fire",
    "title": "炎上・騒動",
-   "items": []
+   "items": [
+    {
+     "title": "「続きは映画で」が炎上する時代に『VIVANT』が歓迎されたワケ。鈴木おさむ氏も驚いた最終回の決着と、二階堂ふみが残した謎",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PYVV4ZGI0RzRVdFctWVdueW1sOVhPSnRtTWk2U3NsakpGS1RkamN6YzdqM0cwd043ZlIwM015a2lIdlU?oc=5",
+     "source": "日刊SPA!",
+     "ts": 1795045946.0
+    },
+    {
+     "title": "＜画像77 / 227＞【漫画】「炎上」「価値観」「留守番電話」「復讐」を収録／著：森本大百科",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16LWdBdE4wOFlzODktNzhrN0dtS1hVbGRncnk4VFJ6NjNkaVVuREliNVBRMmxsd0JxZ3VlTmRtSWJHbFFjV3dqaFNyWlZIN3dPOGE3My1HeUxmZWZ4WmVLSjFTdGpicTZ0RmRYWHlB?oc=5",
+     "source": "ウォーカープラス",
+     "ts": 1795007638.0
+    },
+    {
+     "title": "TBSグループのマンガボックスが配信する漫画『恋を諦めた妻が叶えたい100のこと』が配信から3ヶ月で売上1億円を突破",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvU2x4NzVUZHljaHFTTTVsSDhnOGR4a2dLSW4yMkdUWVRpbTNlYmdxcXN3ajh1Y2FyMXBHa1MzR3VhQ2hPMENlVkVwWUYtcnNUOVk2WkFCMHAxSnAyUnY0NTN2STBJUUFZVERkS21abkhZMEUxdEE?oc=5",
+     "source": "ニコニコニュース",
+     "ts": 1795005934.0
+    },
+    {
+     "title": "画像143 / 299＞好意には鈍感なのに、悪意には敏感な男。ツンデレ女子の恋は成就するのか!?／伊東さん傑作選",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVeDEwZWloeEswcUNCTEpEMVE1NDdNQzZhajJCLUhHX0p3bV81WDhXQkhVT01iM28tNVVCdldoM1l6ZEJScGpXd1dDQlVHWVdJdnI2Nmw1LUFXRUJodTYxUEp4ZTdRdmg2c1pRRy1R?oc=5",
+     "source": "ウォーカープラス",
+     "ts": 1795004558.0
+    },
+    {
+     "title": "妻にはバラす勇気がないと見くびった先生、間もなく大炎上!?【幼稚園の先生に溺れた夫の末路 Vol.30】",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rbkg4UlpQNUY2ZGpoV0gtOXJWeXJuUU5hMXB5dk1PVVlTeFhRN0hDQlc5RkZvOGw1UGVyWkd5RzRaYVFqaTBIdVhDSEhZUkh1bGZN?oc=5",
+     "source": "オリコンニュース",
+     "ts": 1795003200.0
+    },
+    {
+     "title": "＜画像161 / 227＞【漫画】「炎上」「価値観」「留守番電話」「復讐」を収録／著：森本大百科",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BX0hITWRSalBKRFBBVzdlTGtvRUVMU2hHcVd0ZWJqd040RWdJTFd0T0lNbHFjRkJZa0RBaVBzZnpZYW1ST2ZKblpOX29NbDlIaEFqYWtMR3RFdDJzUlY3TFR1MlIyX3NyYUh2UjlR?oc=5",
+     "source": "ウォーカープラス",
+     "ts": 1795001370.0
+    },
+    {
+     "title": "そして誰もいなくなった 「1枚1万円で50枚のお仕事！」フリーのイラストレーターが飛びついた案件が劇場型の詐欺だった 被害者を称する男から持ちかけられた集団訴訟の顛末【漫画】",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wekxLcTdJd1JtNklKaDluMnhnaVdmR2VmWEhCbEdoNzYtaURiSWE5OTFURWtIbzF1c0VCd1kxODBHRDFTWHExWWR2RVRqQktU?oc=5",
+     "source": "まいどなニュース",
+     "ts": 1794996000.0
+    },
+    {
+     "title": "「危機感を感じて捨てた」デザフェスの2100円牛肉丼、「凍っている」との投稿が大拡散…店は“解凍不足の可能性”に言及 マフィン騒動から３年、主催者の反応は…",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DR1NGZzFIV29CV2xIQTMtOUlxMzdxZjJGSjR0U0dfTlJwejdLTnRvR2FfNGR3MmFTU3o1aF8wc3hzNXctV2pxSElLNHd6a1NVOTlJ?oc=5",
+     "source": "集英社オンライン",
+     "ts": 1794993840.0
+    },
+    {
+     "title": "政府広報の“ナオキマン騒動”→都市伝説系YouTuber起用でSNS紛糾「情報操作に左右されやすい人を増やすことに繋がる」識者が警鐘…慶大教授が指摘する政府広報の“あるべき姿”とは（ABEMA TIMES）",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDhlQ0RpV2xGZ0RWekFRb0R6OVBINnhqT1gxREdSYjc4RkVoS3ZkZFlEUHhPVDg3TnZLeTljaFNRRTRDc002TUdHU3BudEtNMUNUTjVnb2g5VVJwaXZGdmtrVEw5U1lCcGtpdUtDNDQ0bVBPaTZOVnJtSUVuSFlrN25OUGRHODhN?oc=5",
+     "source": "Yahoo!ニュース",
+     "ts": 1794989733.0
+    },
+    {
+     "title": "画像4 / 5＞【炎上】「さす九」という言葉は地域差別？元熊本女子が描く九州男児あるあるエピソードが話題【作者インタビュー】",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JbDR4dHdCUThoZ0pYRHhhZzd3UkZlSGM3MF9MTHdFVFYzRm41NDU3dGhNRU1XU0xDdFUyLWVCRlBLQmpXdFhReUNaLTZUdVdmbmoxVVEtbDdNVC01cWZwQUdaeTlDVGNiNlZ1R3Jn?oc=5",
+     "source": "ウォーカープラス",
+     "ts": 1794987998.0
+    },
+    {
+     "title": "元マネジャー、横領巡り争う姿勢 「聖闘士星矢」の漫画家被害訴訟",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tQzVMWUNCMGcwTDVEV1B4RTJXcXVSWEhKUVJJZDJvMDF3ZGdESXlmZDVaM25UVUZ0eVU4VVdUZUNYWV9DWnRYSVlyQkRKVWdOTVBSU2VCR1U5S1VPQ3lVdVBGRVBkb01lUmZv?oc=5",
+     "source": "信濃毎日新聞デジタル",
+     "ts": 1794984645.0
+    },
+    {
+     "title": "秋田書店の漫画、松竹芸能の芸人が漫才化　ライブ12月開催で『刃牙らへん』など4作品ネタ制作・披露",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMEIydTZuTTFYOWNNdk5qNHN2MkJVNjgwanFzWFZ5ay1FY3B0d2hRN0FIVGdNVnQyZ3RycFdhV1F0OG1IdllBaktoTE1TVHpOdTRwOHZPS0F5eUxEd1JYYVVKOGc1X083VHF4VGFNYThET3Z0cVpHdVdNSGt3ZDBFOF9OVGw2d9IBhgFBVV95cUxOMEIydTZuTTFYOWNNdk5qNHN2MkJVNjgwanFzWFZ5ay1FY3B0d2hRN0FIVGdNVnQyZ3RycFdhV1F0OG1IdllBaktoTE1TVHpOdTRwOHZPS0F5eUxEd1JYYVVKOGc1X083VHF4VGFNYThET3Z0cVpHdVdNSGt3ZDBFOF9OVGw2dw?oc=5",
+     "source": "ｄメニューニュース",
+     "ts": 1794982140.0
+    },
+    {
+     "title": "漫画家の玉越博幸『ガンダムSEED』マリューのイラスト描きネットざわつく「揺れてます」 (2026年11月18日掲載)",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sQ3dtcVpRWmJsZlhsT1M0TExNWUctMHpya2d5TF9nUWR3WGhmcWYtZ1dJRzBzUU03aC04YzNFZkdKNlhtV3M0Zmc1akdBeHZyMFh0QlNBTWw1cUhMbVE?oc=5",
+     "source": "ライブドアニュース",
+     "ts": 1794971700.0
+    },
+    {
+     "title": "『探偵！ナイトスクープ』「実はお母さんは漫画家だった」亡き母が描いた漫画を読んでみたい！手がかりは“すなせせしる”というペンネームのみで… (2026年11月18日掲載)",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMS16allPSFBRcHduSTZVQlJoX09XZEt2bDJmZ2FRZTJrSldsYkc1OWVXT3JFeDlXLUIxM2VwZTV0TVBsLTA0ams2Mk5rSG12SzV5V0ZyaEMtTFE2UWc?oc=5",
+     "source": "ライブドアニュース",
+     "ts": 1794967200.0
+    }
+   ]
   },
   {
    "id": "industry",
    "title": "出版・業界",
-   "items": []
+   "items": [
+    {
+     "title": "風楽法師の書籍、Amazonでの販売を拡大。電子書籍に加え、紙の本も順次展開",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IcTNfRzhlbGNEWUx3SjN3TW1hcXVIaDVnSFAybWtRdkZkY3ZabE1UOFpQT0tMcXpYbl8tNlUzNE5FS3Bmb0Myd3JUR245aUhKV0wxNzRMVjQ0VUZ3d0Z6SQ?oc=5",
+     "source": "Infoseek",
+     "ts": 1795051800.0
+    },
+    {
+     "title": "【70～50%OFF】主婦の友社の電子書籍3,000点超の超ビッグセールが11月19日より開催！ 料理・占い・コミック",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lczBWT2RpN3lGd3ZsdVEzYUxVT0FHbWloVHNfRE1JcnpaTWR1QjVCcWlVNmVLdWtQTHpiaURBeWFvdWpXZFBoY055TFdUY3otWGR5OFpVWGJXb1l1S3E3eEtvZjMtVFQtNjdOU0x2QWJZM21pTUc4cg?oc=5",
+     "source": "ニコニコニュース",
+     "ts": 1795051283.0
+    },
+    {
+     "title": "「次にくるライトノベル大賞2026」にノミネートしたオーバーラップ作品が無料、または割引となるキャンペーンが各電子書籍ストアにて開催中",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tVWJ0NnFmbUtBRnJLQ19JdHotMXBKRU5fTlVYQndkMXpjNlh3LU5zMjE0RUFHLTFqcEpqNTNaeTBNbWRyNE1PSnUyUXQ3akhmNVJFbXlvUXNCLVlIbjBZ?oc=5",
+     "source": "千葉テレビ放送株式会社",
+     "ts": 1795050154.0
+    },
+    {
+     "title": "主婦の友社の電子書籍3,000点超が70〜50％OFF！ 11月19日から超ビッグセール",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RSEg0Zkd5N0ptNXAwS0pYWGZNTkIyVWtWaXdWNk1xMVU4N1cxblNkMzY1OFFDSWUtTW5TcFpfZ1ltMlF5X3NrWUM2TU16bldDaDRMblJrdTFWOTBOam01M0phY25fOE9FNXc?oc=5",
+     "source": "AppBank",
+     "ts": 1795049050.0
+    },
+    {
+     "title": "不登校を経験した高校生が、自身の経験を3冊の電子書籍に",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85S3IwU3J3LTN1V3RYUXVFekwwM05lWWFIb2N1LXZvdGlEdXVQdG0yckRzR1BnaHRGcnFOT3ZqeXEyd3p0SkRPdmwtM0o1MFhZbThLSXk2dmxJc1dVU0pwNFR2SExXMDJuLXc?oc=5",
+     "source": "PR TIMES",
+     "ts": 1795046402.0
+    },
+    {
+     "title": "【豪華70人超参加…！】劇団☆新感線の座付き作家、アニメ・ドラマの人気脚本家 中島かずき、初の総特集『文藝別冊 総特集 中島かずき』が11月24日発売！",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9mRHprZW5vT1pGV05RVnBnXy02RGh1TEtJWTdYU09wMGhJY19SS1B0cU96UWF3emxLZmhTV2Y4dkNkUEU?oc=5",
+     "source": "エンタメラッシュ",
+     "ts": 1795046400.0
+    },
+    {
+     "title": "Mantra、マンガ写植AI「Mantra Typesetting」を商用提供開始―誠晃印刷が導入決定",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rQmJXZXhrTlI2MmU2OVZyTURnbE5ld1kyODFjUG51bDdkWkNsSHZBLXl3V0Q2Q294R3RuYzd4NGNkYXpwWjhXY1lRamQxNTk4X2pQZnlVbmZtWUo3Skc3Vy1HQmlzeTRI?oc=5",
+     "source": "GameBusiness.jp",
+     "ts": 1795041003.0
+    },
+    {
+     "title": "小栗旬・橋本愛が教師役として参加決定『リバイアサン』",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BTF92ZFZWOHd0MmJLSlVFVjdBZ2E2N1I3ZzhqbTdiSGt2TG5GVjlNLV9pLWRRNFRDU2FTMy1CdnBJUDFwWmM1Z0tsNmQ?oc=5",
+     "source": "映画情報どっとこむ",
+     "ts": 1795035880.0
+    },
+    {
+     "title": "画像15 / 43＞海外発の「縦読み漫画」が流行中！“待てば¥0”のシステムを生んだ漫画アプリ「ピッコマ」の戦略とは？",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hWjZXX0M5NEhzMXBrX3diTHA4Vng5SHNJY1hUcmZyZVNheGoyM2FDWUdOZWdSQldBalNFcnNOMkNWOGotelp1Z0xPeGNubDRIaHVFN2R5Wm5SUUU4QnEyR2pVMk1waC0wUzJrNEtR?oc=5",
+     "source": "ウォーカープラス",
+     "ts": 1795032196.0
+    },
+    {
+     "title": "桂福留　目指した漫画の世界から落語界へ！福団治の末弟子、芸歴7年目「師匠のように泣かせる噺を」",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXd2c1FoUWxHa3BySnEwRm9jSzB3ZUhwcDViQllUSkd1eWhSTXBnc0hlOEdIOEtLaG5hQUVPN0dVOC1uREZ5X0YwUXZRT0tZVmZnTjc4dUkzWmd1RkFqdWhabHl0R3NJQUZnSkJZS2kwLV94aEJRMWppb0I2bUNXSmc2Vmc5UF9qYkJLMVZLb0t2Um5nSDVDZ0d1d1HSAZwBQVVfeXFMTW13dnNRaFFsR2twckpxMEZvY0swd2VIcHA1YkJZVEpHdXloUk1wZ3NIZThHSDhLS2huYUFFTzdHVTgtbkRGeV9GMFF2UU9LWVZmZ043OHVJM1pndUZBanVoWmx5dEdzSUFGZ0pCWUtpMC1feGhCUTFqaW9CNm1DV0pnNlZnOVBfamJCSzFWS29LdlJuZ0g1Q2dHdXdR?oc=5",
+     "source": "ｄメニューニュース",
+     "ts": 1795032000.0
+    },
+    {
+     "title": "小栗旬＆橋本愛、なにわ男子・道枝駿佑主演「リバイアサン」出演 生徒守る教師役で壮絶生き残りゲーム参戦",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RU0hpNlNWY1kzNFJQbDdESEp3MmdtWndzQ2tRX1NNLWppbnNFN2dYX2c1bGNpRnJyX0lzbFNCeER3WWg5OElsOXYyV1JOd0J4WTU3OE5LZjZJWFNzbW9id3UwNzJ5QV9lNm13azd3?oc=5",
+     "source": "au Webポータル",
+     "ts": 1795032000.0
+    },
+    {
+     "title": "OLED搭載iPad miniは電子書籍リーダーの時代を終わらせるのか？ | Phonegram",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb05haDFaT040TWtZN05zV1ZCYTFjMC1maU54MlZZcGRYUXpHUlF5bDVxa01vZUd2UExUTmZCQWcydUVuc1pCMUdnMUFGMGphNnU1LTFaRmxNV3RfMF8zdXRyTjgxS1RZRTh3QTRfeUlVSnM0elNTY3NIOUUyX1NVekRTczRpVGNuRXk0ckdVTWJkb2M1UlFOZG85RzRDMWhyQmNJ?oc=5",
+     "source": "آي-فون إسلام",
+     "ts": 1795024865.0
+    },
+    {
+     "title": "楽天、エンタメ関連サービスのデータから読み解く「2026年年間 エンタメランキングTOP5」を発表",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CamtQV0dQLWpCZ2tuekxUM3ctQm03VVB6NWU1VzM5M0F4eWVmQkRaRFdEUndJX2pLSS1hNnBUNHkxZmJtckhRQ0FtcjVMZEYtRXM5OUEyNE1HQkthNVJBbEpLeWVPRE5o?oc=5",
+     "source": "ニコニコニュース",
+     "ts": 1795024267.0
+    },
+    {
+     "title": "「ウーマンエキサイト マンガ」アプリにポイント機能が追加。11/16から「倍倍ポイントキャンペーン」を実施！",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QMzNTcjhDanIzZEdhZlppaFlOWXRVSTFBR3c1Wjh2Q3pSNENQODN5SHM4Zl9kSks4U1RxSWJkN3pzZk0tOC1kZUx3VHlGeDRJSGg2VVdWeXd6RFp1T3FEMXBrenZCMmdQQ2Q5b1E2aWdmRloz?oc=5",
+     "source": "Excite エキサイト",
+     "ts": 1795016400.0
+    },
+    {
+     "title": "𝙖𝙢𝙪𝙧𝙞 (@ffffwww0519) on X",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5FYWs4SEJUVDR6OF9NOWRkbFN0R3B2bUlUTUFMMDdrVTdIVGR0SklwdzhzTkxsNGFndGxv?oc=5",
+     "source": "Howl.Link",
+     "ts": 1795004202.0
+    }
+   ]
   },
   {
    "id": "world",
    "title": "世間の話題",
    "items": [
     {
-     "title": "「1リットルの涙」沢村一樹ら出演",
-     "url": "https://news.yahoo.co.jp/pickup/6603007?source=rss",
+     "title": "賃上げより手取り増 食事補助注目",
+     "url": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
      "source": "",
-     "ts": 1794968382.0
+     "ts": 1795052515.0
     },
     {
-     "title": "町内会に入らずごみ出し 法的には",
-     "url": "https://news.yahoo.co.jp/pickup/6603004?source=rss",
+     "title": "2人死亡事故 容疑者勤務先を捜索",
+     "url": "https://news.yahoo.co.jp/pickup/6603123?source=rss",
      "source": "",
-     "ts": 1794966792.0
+     "ts": 1795052274.0
     },
     {
-     "title": "「INFOBAR ZERO」をau Flex Styleから12月25日に発売 | KDDI ニュースルーム",
-     "url": "https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html",
+     "title": "中学生はねられ意識不明 70歳逮捕",
+     "url": "https://news.yahoo.co.jp/pickup/6603122?source=rss",
      "source": "",
-     "ts": 1794965949.0
+     "ts": 1795051179.0
     },
     {
-     "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活　12月25日発売",
-     "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
+     "title": "「木綿のハンカチーフ」作詞・松本隆氏「哀悼、、、『太田裕美に捧げる』」追悼文投稿 - おくやみ : 日刊スポーツ",
+     "url": "https://www.nikkansports.com/entertainment/news/202611180002158.html",
      "source": "",
-     "ts": 1794965705.0
+     "ts": 1795049749.0
     },
     {
-     "title": "看護師の死 突きつける命の格差",
-     "url": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
+     "title": "Anthropic IPO公開価格は83ドル",
+     "url": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
      "source": "",
-     "ts": 1794965526.0
+     "ts": 1795048499.0
     },
     {
-     "title": "大谷翔平 2026年「無冠」確定",
-     "url": "https://news.yahoo.co.jp/pickup/6603002?source=rss",
+     "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か　決済画面のプログラム改ざん",
+     "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
      "source": "",
-     "ts": 1794965319.0
+     "ts": 1795047520.0
     },
     {
-     "title": "経済損失1.2兆円 男性更年期対策",
-     "url": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
+     "title": "Suica新キャラクター選考委員の声「多数決だと無難なものになると思っていたんですが…」 - 芸能 : 日刊スポーツ",
+     "url": "https://www.nikkansports.com/entertainment/news/202611180001285.html",
      "source": "",
-     "ts": 1794963844.0
+     "ts": 1795045550.0
     },
     {
-     "title": "Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響|セキュリティニュースのセキュリティ対策Lab",
-     "url": "https://rocket-boys.co.jp/security-measures-lab/java4shell-cve-2026-114938-oracle-openjdk-base64-rce-20261118/",
+     "title": "21日にかけ風強まる 暴風など警戒",
+     "url": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
      "source": "",
-     "ts": 1794963597.0
+     "ts": 1795044957.0
     },
     {
-     "title": "横から見ると靴底に穴 人気の訳",
-     "url": "https://news.yahoo.co.jp/pickup/6602998?source=rss",
+     "title": "佐野勇斗 日テレ日曜ドラマで主演",
+     "url": "https://news.yahoo.co.jp/pickup/6603108?source=rss",
      "source": "",
-     "ts": 1794963247.0
+     "ts": 1795044000.0
     },
     {
-     "title": "硫黄島 新たな陸地ドーム10個分に",
-     "url": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
+     "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
+     "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
      "source": "",
-     "ts": 1794963050.0
+     "ts": 1795043744.0
     },
     {
-     "title": "APECきょう開幕 付近は厳戒態勢",
-     "url": "https://news.yahoo.co.jp/pickup/6602997?source=rss",
+     "title": "文学とはなにか？｜大前粟生",
+     "url": "https://note.com/aomaewaon/n/n8824e6308aa9",
      "source": "",
-     "ts": 1794962271.0
+     "ts": 1795043227.0
     },
     {
-     "title": "置き配、玄関前に荷物で「配達完了」　トラブル相次ぎ国交省が指針 - 日本経済新聞",
-     "url": "https://www.nikkei.com/article/DGXZQOUA122I00S6A111C2000000/",
+     "title": "太田裕美さん死去 イルカが悼む",
+     "url": "https://news.yahoo.co.jp/pickup/6603106?source=rss",
      "source": "",
-     "ts": 1794959010.0
+     "ts": 1795043154.0
     },
     {
-     "title": "反戦界隈を攻撃しているのは全てスマホ農場説について｜源",
-     "url": "https://note.com/minam_oto/n/n6e436359bf96",
+     "title": "米史上初 黒人の下院議長誕生へ",
+     "url": "https://news.yahoo.co.jp/pickup/6603104?source=rss",
      "source": "",
-     "ts": 1794958881.0
+     "ts": 1795042648.0
     },
     {
-     "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
-     "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+     "title": "NGINXの脆弱性 CVE-2026-123633、CVE-2026-123007についてまとめてみた - piyolog",
+     "url": "https://piyolog.hatenadiary.jp/entry/2026/11/19/065715",
      "source": "",
-     "ts": 1794957418.0
+     "ts": 1795041308.0
     },
     {
-     "title": "五秒先を見据える能力で、国家に対抗できるのか──『五秒先を視る男』 - 基本読書",
-     "url": "https://huyukiitoichi.hatenadiary.jp/entry/2026/11/18/070000",
+     "title": "ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」",
+     "url": "https://japan.cnet.com/article/35255099/",
      "source": "",
-     "ts": 1794953702.0
+     "ts": 1795040432.0
     }
    ]
   }
  ],
  "trends": [
   {
-   "word": "小渕優子",
-   "traffic": "2000+"
+   "word": "宇野 千代 夫",
+   "traffic": "5000+"
   },
   {
-   "word": "谷口 信輝",
+   "word": "グルンガスト",
    "traffic": "200+"
   },
   {
-   "word": "幹事",
-   "traffic": "200+"
-  },
-  {
-   "word": "入国拒否",
-   "traffic": "1000+"
-  },
-  {
-   "word": "戸田競艇",
-   "traffic": "200+"
-  },
-  {
-   "word": "サッカーカタール代表",
+   "word": "アベイル ちいかわ",
    "traffic": "100+"
   },
   {
-   "word": "阿野鉱二",
+   "word": "corinthians x botafogo",
+   "traffic": "200+"
+  },
+  {
+   "word": "護衛艦",
+   "traffic": "1000+"
+  },
+  {
+   "word": "移籍金",
    "traffic": "500+"
   },
   {
-   "word": "infobar zero",
-   "traffic": "2000+"
+   "word": "rdr2",
+   "traffic": "200+"
   },
   {
-   "word": "杉山茂樹",
-   "traffic": "2000+"
+   "word": "cev補助金",
+   "traffic": "200+"
   },
   {
-   "word": "看護",
+   "word": "マーベリックス 対 ウォリアーズ",
+   "traffic": "500+"
+  },
+  {
+   "word": "nasa ボイジャー 1 号",
    "traffic": "1000+"
   }
  ],
  "words": [
   {
-   "word": "ZERO",
+   "word": "画像",
+   "count": 6,
+   "new": false
+  },
+  {
+   "word": "電子書籍",
+   "count": 5,
+   "new": false
+  },
+  {
+   "word": "炎上",
+   "count": 4,
+   "new": false
+  },
+  {
+   "word": "コミック",
+   "count": 3,
+   "new": false
+  },
+  {
+   "word": "Vol",
+   "count": 3,
+   "new": false
+  },
+  {
+   "word": "コルコミ",
    "count": 2,
    "new": true
   },
   {
-   "word": "INFOBAR",
+   "word": "コルク",
+   "count": 2,
+   "new": true
+  },
+  {
+   "word": "共同",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "サービス",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "時代",
+   "count": 2,
+   "new": true
+  },
+  {
+   "word": "価値観",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "復讐",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "収録",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "留守番電話",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "森本大百科",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "騒動",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "作品",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "漫画家",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "日掲載",
+   "count": 2,
+   "new": true
+  },
+  {
+   "word": "友社",
+   "count": 2,
+   "new": true
+  },
+  {
+   "word": "主婦",
+   "count": 2,
+   "new": true
+  },
+  {
+   "word": "点超",
+   "count": 2,
+   "new": false
+  },
+  {
+   "word": "ビッグセール",
+   "count": 2,
+   "new": true
+  },
+  {
+   "word": "OFF",
    "count": 2,
    "new": true
   }
@@ -174,15 +551,15 @@
   },
   {
    "label": "X：漫画（昨日・人気順）",
-   "url": "https://x.com/search?q=%E6%BC%AB%E7%94%BB%20since%3A2026-11-17%20min_faves%3A1000&f=top"
+   "url": "https://x.com/search?q=%E6%BC%AB%E7%94%BB%20since%3A2026-11-18%20min_faves%3A1000&f=top"
   },
   {
    "label": "X：漫画家（昨日・人気順）",
-   "url": "https://x.com/search?q=%E6%BC%AB%E7%94%BB%E5%AE%B6%20since%3A2026-11-17%20min_faves%3A500&f=top"
+   "url": "https://x.com/search?q=%E6%BC%AB%E7%94%BB%E5%AE%B6%20since%3A2026-11-18%20min_faves%3A500&f=top"
   },
   {
    "label": "X：炎上 漫画（昨日）",
-   "url": "https://x.com/search?q=%E6%BC%AB%E7%94%BB%20%28%E7%82%8E%E4%B8%8A%20OR%20%E6%89%B9%E5%88%A4%29%20since%3A2026-11-17%20min_faves%3A100&f=top"
+   "url": "https://x.com/search?q=%E6%BC%AB%E7%94%BB%20%28%E7%82%8E%E4%B8%8A%20OR%20%E6%89%B9%E5%88%A4%29%20since%3A2026-11-18%20min_faves%3A100&f=top"
   },
   {
    "label": "Xのトレンド",
@@ -201,15 +578,5 @@
    "url": "https://togetter.com/hot"
   }
  ],
- "errors": [
-  "https://news.google.com/rss/search?q=%E6%BC%AB%E7%94%BB+when … HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%E6%BC%AB%E7%94%BB%E5%A … HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%E3%83%9E%E3%83%B3%E3%8 … HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%E6%BC%AB%E7%94%BB+%E7% … HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%E6%BC%AB%E7%94%BB%E5%A … HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%E5%87%BA%E7%89%88%E7%A … HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%E6%BC%AB%E7%94%BB+%E5% … HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%E6%BC%AB%E7%94%BB%E3%8 … HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%E6%BC%AB%E7%94%BB+AI+% … HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }
